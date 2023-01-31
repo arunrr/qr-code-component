@@ -23,7 +23,7 @@
 
 #### Mobile
 
-![](./screenshots/desktop_preview.jpg)
+![](./screenshots/mobile_preview.jpg)
 
 ### Links
 
