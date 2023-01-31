@@ -25,7 +25,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://arunrr.github.io/qr-code-component/)
+- Live Site URL: [QR Code Site](https://arunrr.github.io/qr-code-component/)
 
 ## My process
 
