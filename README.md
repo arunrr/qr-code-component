@@ -2,16 +2,14 @@
 
 ## Table of contents
 
-- [QR Code Component](#qr-code-component)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [Screenshot](#screenshot)
-      - [Desktop](#desktop)
-      - [Mobile](#mobile)
-    - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-  - [Author](#author)
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+    - [Desktop](#desktop)
+    - [Mobile](#mobile)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
 ## Overview
 
